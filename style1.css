@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+span.sp1{
+    margin: 200px 200px;
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 100%;
+    display: inline-block;
+}
+span.sp2{
+    margin-top: 200px;
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 2%;
+    display: inline-block;
+    float: right;
+    margin-right: 300px;
+
+}

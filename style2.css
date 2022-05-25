@@ -1,0 +1,33 @@
+div{
+    width: 1200px;
+    height: 200px;
+    border: 10px solid red;
+    margin: 200px 200px;
+}
+p{
+    color: blue;
+    font-size: 35px;
+   padding-left: 20px;
+}
+span.sp1{
+    margin: 50px 90px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid yellow;
+     float: left;
+     
+}
+
+
+span.sp2{
+    margin: 50px 90px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid yellow;
+    float: right;
+    
+
+}
+body{
+    background-color: black;
+}
